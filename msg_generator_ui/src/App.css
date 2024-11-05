@@ -1,0 +1,11 @@
+.container{
+  margin: 0 auto;
+  padding: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+}
+
+.col{
+  padding: 4px;
+}
+

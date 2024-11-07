@@ -46,3 +46,11 @@ APIs:
    [
     "Hi Kunal, I’m impressed by your insights on user acquisition and the transformative impact of Gen AI in gaming. I’d love to connect and explore potential synergies in this exciting space."
 ]
+
+Cost for running this solution for 30 days, 5 queries each day:
+The only cost incurred will be due to OpenAI. I have used gpt-4 model of openAI, which could approximately cost 0.90 USD. This could change based on if 8k context model is used or 32k context model.
+
+References:
+1. GeeksforGeeks
+2. Django documentation
+3. OpenAI documentation

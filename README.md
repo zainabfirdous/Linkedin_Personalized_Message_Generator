@@ -2,7 +2,7 @@ Note: Python version used 3.12.7, Django version used 5.1.3
 
 Project Structure:
 msg_generator_ui: React server for UI. Src folder contains the UI code.
-personalized_message: Django server for backend. The main project is personalized_message, the app "linkedin_messages" has all the APIs.
+personized_Messages: Django server for backend. The main project is personized_Messages, the app "linkedin_messages" has all the APIs.
 
 Set-up details:
 1. Create a virtaul environemnt using venv, to isolate the project setup from global setup.

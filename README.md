@@ -54,3 +54,4 @@ References:
 1. GeeksforGeeks
 2. Django documentation
 3. OpenAI documentation
+4. Chatgpt for bug resolution
